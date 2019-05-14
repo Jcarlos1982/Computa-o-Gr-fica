@@ -1,0 +1,33 @@
+Trabalho Final - Melhorar triangulação de imagem.ply
+Computação Gráfica
+Prof. Leandro Souza 
+Alunos: Andre , Igo Joctan e José Carlos 
+
+
+Imagem Original
+
+Quantidade de vértices: 4171
+Quantidade de Faces: 8210
+Triangulos válidos (razão de aspecto entre 0.7 e 1.0): 1940
+Triangulos inválidos (razão de aspecto menor que 0.7): 6270
+Percentual de triangulos válidos: 23.63%
+Percentual de triangulos inválidos: 76.37%
+
+
+Imagem Gerada
+
+Quantidade de vértices: 22057
+Quantidade de Faces: 8438
+Triangulos válidos (razão de aspecto entre 0.7 e 1.0): 2021
+Triangulos inválidos (razão de aspecto menor que 0.7): 6417
+Percentual de triangulos válidos: 23.95%
+Percentual de triangulos inválidos: 76.05%
+
+
+Conclusões
+
+Quantidade de novos triângulos: 228 (substituição de 76 dos 6270 triângulos inválidos)
+Percentual de aumento de faces: 2.78%
+Ganho de 0.32% na nova triangulacao.  
+
+                             Fim                             

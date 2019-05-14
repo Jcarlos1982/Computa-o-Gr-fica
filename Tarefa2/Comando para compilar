@@ -1,0 +1,1 @@
+g++ Visual3D.cpp -o Visual3D -lGL -lGLU -lglut
